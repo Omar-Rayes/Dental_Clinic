@@ -1,0 +1,16 @@
+﻿<Application x:Class="Dental_Clinic.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="PL/Login.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <BitmapImage x:Key="Logo" UriSource="Resources\Logo.png"></BitmapImage>
+            <BitmapImage x:Key="True_image" UriSource="Resources\True.png"></BitmapImage>
+            <BitmapImage x:Key="False_image" UriSource="Resources\False.png"></BitmapImage>
+            <BitmapImage x:Key="Hide_Eye" UriSource="Resources\Hide_Eye.png"></BitmapImage>
+            <BitmapImage x:Key="Visible_Eye" UriSource="Resources\Visible_Eye.png"></BitmapImage>
+
+
+        </ResourceDictionary> 
+    </Application.Resources>
+</Application>

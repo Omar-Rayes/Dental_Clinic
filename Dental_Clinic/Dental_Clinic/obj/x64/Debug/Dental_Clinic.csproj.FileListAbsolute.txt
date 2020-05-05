@@ -1,0 +1,27 @@
+D:\Dental_Clinic\Dental_Clinic\bin\x64\Debug\Dental_Clinic.exe
+D:\Dental_Clinic\Dental_Clinic\bin\x64\Debug\Dental_Clinic.pdb
+D:\Dental_Clinic\Dental_Clinic\obj\x64\Debug\PL\Login.baml
+D:\Dental_Clinic\Dental_Clinic\obj\x64\Debug\PL\Login.g.cs
+D:\Dental_Clinic\Dental_Clinic\obj\x64\Debug\App.g.cs
+D:\Dental_Clinic\Dental_Clinic\obj\x64\Debug\Dental_Clinic_MarkupCompile.cache
+D:\Dental_Clinic\Dental_Clinic\obj\x64\Debug\Dental_Clinic.g.resources
+D:\Dental_Clinic\Dental_Clinic\obj\x64\Debug\Dental_Clinic.PL.Frm_Add_Treatment.resources
+D:\Dental_Clinic\Dental_Clinic\obj\x64\Debug\Dental_Clinic.PL.MainScreen.resources
+D:\Dental_Clinic\Dental_Clinic\obj\x64\Debug\Dental_Clinic.Properties.Resources.resources
+D:\Dental_Clinic\Dental_Clinic\obj\x64\Debug\Dental_Clinic.csproj.GenerateResource.Cache
+D:\Dental_Clinic\Dental_Clinic\obj\x64\Debug\Dental_Clinic.exe
+D:\Dental_Clinic\Dental_Clinic\obj\x64\Debug\Dental_Clinic.pdb
+D:\el camino\Dental_Clinic\Dental_Clinic\obj\x64\Debug\Dental_Clinic.exe
+D:\el camino\Dental_Clinic\Dental_Clinic\obj\x64\Debug\Dental_Clinic.pdb
+D:\el camino\Dental_Clinic\Dental_Clinic\bin\x64\Debug\Dental_Clinic.exe
+D:\el camino\Dental_Clinic\Dental_Clinic\bin\x64\Debug\Dental_Clinic.pdb
+D:\el camino\Dental_Clinic\Dental_Clinic\obj\x64\Debug\PL\Login.baml
+D:\el camino\Dental_Clinic\Dental_Clinic\obj\x64\Debug\PL\Login.g.cs
+D:\el camino\Dental_Clinic\Dental_Clinic\obj\x64\Debug\App.g.cs
+D:\el camino\Dental_Clinic\Dental_Clinic\obj\x64\Debug\Dental_Clinic_MarkupCompile.cache
+D:\el camino\Dental_Clinic\Dental_Clinic\obj\x64\Debug\Dental_Clinic.g.resources
+D:\el camino\Dental_Clinic\Dental_Clinic\obj\x64\Debug\Dental_Clinic.PL.Frm_Add_Treatment.resources
+D:\el camino\Dental_Clinic\Dental_Clinic\obj\x64\Debug\Dental_Clinic.PL.MainScreen.resources
+D:\el camino\Dental_Clinic\Dental_Clinic\obj\x64\Debug\Dental_Clinic.Properties.Resources.resources
+D:\el camino\Dental_Clinic\Dental_Clinic\obj\x64\Debug\Dental_Clinic.csproj.GenerateResource.Cache
+D:\el camino\Dental_Clinic\Dental_Clinic\obj\x64\Debug\Dental_Clinic.csprojResolveAssemblyReference.cache
